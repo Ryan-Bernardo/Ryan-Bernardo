@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryan-Bernardo
+- 👋 Hi, I’m @Ryan-Bernardo.
 - 👀 I’m interested in learning code and  web design.
 - 🌱 I’m currently learning HTML, CSS and JavaScript - currently working at the moment so im studying programming throught the internet.
 - 💞️ I’m looking to collaborate on any web design projects for any programming company that would be willing to hire me.
